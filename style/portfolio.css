@@ -5,6 +5,9 @@
   font-variation-settings:
     "width" 100;
 }
+.secondary-bg{
+    background-color: #FFF8F3;
+}
 .dark-2{
     color: #474747;
 }
@@ -20,6 +23,16 @@
     border-radius: 5px;
     border: none;
 
+}
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+.section-describtion{
+    font-weight:400;
+    font-size: 18px;
+    color: #757575;
 }
 nav ul {
     display: flex;
@@ -75,5 +88,23 @@ nav li a{
 .banner-profilepic{
     width: 580px;
     height: 670px;
+}
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+    /* border: #181818; */
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.div-items{
+    display: flex;
+    justify-content: space-around;
+}
+.item-description{
+    font-weight: 600;
 }
  
