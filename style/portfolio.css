@@ -150,7 +150,7 @@ footer{
     display: flex;
     gap: 100px;
 }
-footer input[type="text"],footer input[type="email"], footer input[type="textarea"]{
+footer input[type="text"],footer input[type="email"],footer input[type="textarea"]{
     height: 64px;
     border-radius: 5px;
     background-color: white;
@@ -159,5 +159,6 @@ footer input[type="text"],footer input[type="email"], footer input[type="textare
     width: 100%;
     padding: 10px 20px;
 }
+
 
  
